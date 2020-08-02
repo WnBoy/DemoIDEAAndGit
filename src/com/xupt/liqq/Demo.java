@@ -9,6 +9,10 @@ public class Demo {
 
         System.out.println("Nice");
         System.out.println("Nice");
+        System.out.println("Nice");
+        System.out.println("Nice");
+        System.out.println("Nice");
+        System.out.println("Nice");
 
     }
 }
