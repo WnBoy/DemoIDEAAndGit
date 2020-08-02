@@ -8,8 +8,8 @@ public class Demo {
     public static void main(String[] args) {
 
         System.out.println("Nice");
-        System.out.println("Nice");
-        System.out.println("Nice");
+        System.out.println("abc");
+        System.out.println("def");
         System.out.println("Nice");
         System.out.println("Nice");
         System.out.println("Nice");
